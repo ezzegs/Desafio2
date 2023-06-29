@@ -152,14 +152,14 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #00366f;
+  color: #0d6f00;
   text-decoration: none;
 }
 
 #header .logo img {
   padding: 0;
   margin: -7px 0;
-  max-height: 60px;
+  max-height: 50px;
 }
 
 .main-pages {
@@ -179,7 +179,7 @@ h6 {
 }
 
 #intro .intro-img {
-  width: 50%;
+  width: 40%;
   float: right;
 }
 
@@ -196,7 +196,7 @@ h6 {
 }
 
 #intro .intro-info h2 span {
-  color: #74b5fc;
+  color: #0ef381;
   text-decoration: underline;
 }
 
@@ -215,8 +215,8 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started {
-  background: #007bff;
-  border: 2px solid #007bff;
+  background: #0fce58da;
+  border: 2px solid #0fce58da;
   color: #fff;
 }
 
@@ -231,8 +231,8 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
+  background: #0fce58da;
+  border-color: #0fce58da;
   color: #fff;
 }
 
